@@ -1,0 +1,13 @@
+channels:
+ - bioconda
+ - r
+ - conda-forge
+dependencies:
+ - sequenza-utils
+ - r-sequenza
+ - r-devtools
+ - r-docopt
+ - python >= 3.5
+ - r-essentials
+ - samtools >= 1.9
+ - bedtools

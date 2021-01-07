@@ -1,0 +1,20 @@
+{
+    "__default__" :
+    {
+        "mem" : 10000,
+        "flags" : "",
+        "time:" : "12:00:00",
+	"threads": 1
+    },
+    "run_wtsi_iterations" :
+    {
+        "mem_mb" : 5000,
+        "flags": ""
+    },
+    "merge_wtsi_iterations" :
+    {
+        "mem_mb" : 10000,
+        "flags": ""
+    }
+}
+ 
